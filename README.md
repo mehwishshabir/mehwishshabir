@@ -81,10 +81,9 @@ Contributing to the development of **PakHeart**, a research initiative focused o
 
 Current areas of work include:
 
-- ECG metadata standardization
-- ECG ingestion and format handling
+- ECG ingestion Pipelines
 - signal and metadata quality control
-- data governance and documentation
+- Format handling and documentation
 - AI-readiness validation
 - research infrastructure
 - ECG lead-reduction and reconstruction research
