@@ -1,7 +1,7 @@
 
 # Mehwish Shabir
 
-**Bioinformatics Researcher | Medical AI | Cardiovascular Data Research**
+**Bioinformatics Researcher | Biomedical Data Analysis | AI in Healthcare**
 
 I am a bioinformatics researcher based in Islamabad, Pakistan, with an MS in Bioinformatics from the National University of Sciences and Technology (NUST).
 My work focuses on applying machine learning and deep learning to clinical data, particularly medical imaging and cardiovascular signals. I am currently working on the PakHeart research initiative at NUST, where I contribute to ECG dataset development, signal-quality assessment, clinical annotation and AI validation.
