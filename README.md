@@ -22,14 +22,20 @@ My work includes:
 
 [PakHeart GitHub Organisation](https://github.com/PakHeart)
 
+
 ### Intracranial Hemorrhage Analysis | MS Research
+
 **Graduate Researcher, SINES–NUST | 2024–2025**
+
 For my MS research, I developed and evaluated deep-learning methods for intracranial hemorrhage analysis using brain CT images.
-- Implemented 3D CNN, U-Net and V-Net architectures for classification and segmentation
-- Worked with clinical imaging datasets and radiologist-reviewed annotations
-- Investigated cross-dataset generalisation and image-intensity variation
-- Improved external classification accuracy from 64% to 93% following intensity normalisation
-- Developed HemoViz, a research prototype for hemorrhage visualisation and volumetric analysis
+
+- Implemented 3D CNN, U-Net and V-Net architectures for classification and segmentation.
+- Worked with clinical imaging datasets and radiologist-reviewed annotations.
+- Investigated cross-dataset generalisation and image-intensity variation.
+- Improved external classification accuracy from 64% to 93% following intensity normalisation.
+- Developed HemoViz, a research prototype for hemorrhage visualisation and volumetric analysis.
+
+[HemoViz – AI-Assisted Intracranial Hemorrhage Diagnostic Tool](https://github.com/mehwishshabir/HemoViz-AI-Assisted-Intracranial-Hemorrhage-Diagnostic-Tool)
 
 ### Ischemic Stroke AI Research
 I have also contributed to research involving AI-based ischemic stroke classification and lesion segmentation using clinical CT imaging datasets.
