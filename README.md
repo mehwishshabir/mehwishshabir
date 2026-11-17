@@ -36,10 +36,10 @@ I have also contributed to research involving AI-based ischemic stroke classific
 My contributions included data preprocessing, annotation review, model evaluation and research documentation.
 
 ## Technical Skills
-**Programming:** Python, NumPy, Pandas, scikit-learn, Git, Linux
-**Deep Learning:** PyTorch, TensorFlow/Keras, MONAI
-**Medical Imaging:** 3D CNNs, U-Net, V-Net, CT image analysis, DICOM, NIfTI, 3D Slicer, ITK-SNAP
-**Biomedical Data:** ECG waveform handling, clinical annotation, signal-quality assessment, dataset curation and validation
+- **Programming:** Python, NumPy, Pandas, scikit-learn, Git, Linux
+- **Deep Learning:** PyTorch, TensorFlow/Keras, MONAI
+- **Medical Imaging:** 3D CNNs, U-Net, V-Net, CT image analysis, DICOM, NIfTI, 3D Slicer, ITK-SNAP
+- **Biomedical Data:** ECG waveform handling, clinical annotation, signal-quality assessment, dataset curation and validation
 
 ## Research Interests
 I am particularly interested in:
