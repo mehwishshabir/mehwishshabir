@@ -55,7 +55,7 @@ I am particularly interested in:
 - Model generalisation across clinical datasets
 - Explainable and reliable AI for healthcare
 
-## Research Presentations
+## Conference Presentations
 - **2026:** AI-Guided Framework for Automated Intracranial Hemorrhage Analysis on Head CT — NUST International Health Conference
 - **2025:** AI-Assisted Interventional Radiology for Enhanced Brain Stroke Diagnosis and Treatment Planning — Radiological Society of Pakistan Annual Conference (Poster)
 
